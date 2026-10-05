@@ -1,4 +1,4 @@
-![Amir Design Judgment](assets/hero.png)
+![Amir Design Judgment](assets/hero.jpg)
 
 # Amir Design Judgment
 
